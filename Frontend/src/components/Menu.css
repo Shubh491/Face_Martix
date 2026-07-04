@@ -1,0 +1,23 @@
+.title{
+  font-family: Poppins;
+  font-size: 100px;
+  font-weight: 600;
+  color: #f8efda;
+  margin-bottom: 0px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1.5s ease-in-out;
+}
+.menuButton{
+  margin: 10px;
+}
+.RegFace{
+  padding: 0.87em;
+}
+.Mark{
+  padding: 0.13em;
+}
+.Home{
+  padding: 3em;
+}
+
+
